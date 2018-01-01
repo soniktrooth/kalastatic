@@ -10,7 +10,7 @@
   ],
   "main": "src/kalastatic.js",
   "dependencies": {
-    "browser-sync": "^2.18.8",
+    "browser-sync": "^2.23.2",
     "commander": "^2.9.0",
     "extend": "^3.0.0",
     "extend-shallow": "^3.0.0",
